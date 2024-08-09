@@ -1,0 +1,12 @@
+{
+    "Conductor": {
+        "if_assert_path": {},
+        "send_path": {
+            "writing:Set,reading:transfer": [
+                "DataBase",
+                "Limit"
+            ]
+        },
+        "suicide_path": {}
+    }
+}
