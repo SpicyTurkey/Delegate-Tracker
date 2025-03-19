@@ -4,3 +4,5 @@ Finally, the slot obtained by executing a single path is compared with the slot 
 If the slot matches, it indicates that there is a delegate call vulnerability.
 
 The description here is relatively simple, if you have questions please consult the author.
+
+This library includes an example
