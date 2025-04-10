@@ -8,6 +8,7 @@ The description here is relatively simple, if you have questions please consult 
 This library includes an example
 
 #Deploy
+```Bash
 cd Delegate-Tracker
 python3 -m venv slither
 #python3 = 3.8.10
@@ -25,3 +26,4 @@ sudo apt-get install python3-dev python3-wheel build-essential
 pip3 install --upgrade pip setuptools wheel -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip3 install manticore[native] solc-select colorama -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install protobuf==3.20.1 --force-reinstall
+```
