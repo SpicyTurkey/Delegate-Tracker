@@ -17,7 +17,7 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple slither-analyzer solc-s
 #python versions other than 3.8.10 require additional execution of the following code
 pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple eth-typing==3.1.0 eth-utils==2.1.0 eth-rlp==0.3.0 eth-account==0.8.0 web3==6.20.2 hexbytes==0.3.1
 
-cd /home/cc/Desktop/DelegateTracker
+cd DelegateTracker
 python3 -m venv manticore
 #python3 = 3.8.10
 source manticore/bin/activate
